@@ -1,0 +1,21 @@
+# 忽略所有 .log 文件
+*.log
+
+# 忽略所有的编译产物和临时文件
+/dist/
+/build/
+
+# 忽略 node_modules 目录及其内容
+node_modules/
+
+# 忽略 .DS_Store 文件（Mac OS 文件系统）
+.DS_Store
+
+# 忽略 .vscode 目录及其内容（VS Code 配置）
+.vscode/
+
+# 忽略 .idea 目录及其内容（JetBrains IDE 配置）
+.idea/
+
+
+.parcel-cache

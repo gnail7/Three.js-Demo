@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@tweenjs/tween.js": "^21.0.0",
+    "lil-gui": "^0.18.2",
+    "parcel": "^2.10.0",
+    "three": "^0.157.0"
+  },
+  "name": "threejs",
+  "version": "1.0.0",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
